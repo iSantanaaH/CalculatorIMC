@@ -19,4 +19,14 @@ Caso tenha o nodemon instalado rode nodemon main.js para rodar o back-end de for
 
 Pra instalar o nodemon rode no cmd ou no terminal npm install -g nodemon para instalar globalmente em sua máquina.
 
-navege até localhost:3000 para ver o projeto rodando.
+Após instalar o nodemon rode nodemon mais.js. Caso opte pelo node: node mais.js
+
+Para iniciar o servidor front-end rode npm run dev ou yarn run dev.
+
+Para instalar o yarn globalmente em sua máquina rode npm install -g yarn.
+
+Navege até localhost:3000 para ver o projeto rodando.
+
+Se gostou curte e me segue.
+
+Obrigado pela atenção.
